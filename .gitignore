@@ -1,0 +1,16 @@
+# Ignore Visual Studio temporary files
+.vs/
+*.user
+*.suo
+*.slnx
+
+# Ignore Build results (Binaries)
+bin/
+obj/
+
+# Ignore Python cache
+__pycache__/
+*.pyc
+
+# Ignore SSIS Logs
+*.log
